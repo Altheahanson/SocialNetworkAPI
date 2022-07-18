@@ -16,7 +16,8 @@
 
 
 ## Description
-- Social Network API is a 
+- Social Network API is a API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+- This application uses Express, MongoDB and Mongoose
 
 ## Installation
 Follow these steps to install this project on your local machine.
